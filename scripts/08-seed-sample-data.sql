@@ -29,5 +29,5 @@ The latest version introduces several groundbreaking features:
 
 To start using Next.js 15, simply run:
 
-```bash
+\`\`\`bash
 npx create-next-app@latest my-app
